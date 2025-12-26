@@ -23,6 +23,12 @@ The chatbot uses the following tools and components:
 
 The app is designed to display the thoughts and actions of the agent in real-time using `StreamlitCallbackHandler`.
 
+## Screenshots
+
+<img width="1512" height="982" alt="Chat search engine" src="https://github.com/user-attachments/assets/e50eb0a3-facc-420c-9c36-da2206e3e689" />
+
+
+
 ## Installation
 
 1. Clone the repository:
